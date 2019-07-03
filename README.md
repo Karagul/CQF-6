@@ -7,5 +7,4 @@ Replicates Excel-version from Module 1 Lesson 2.
 ## brownian_motion
 Replicates example of coin toss with decreasing time steps as the base for brownian motion.
 
-Example:
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Example](https://github.com/AlexanderNadjalin/CQF/tree/master/brownian_motion/coin_toss_example_M1L3.png)
